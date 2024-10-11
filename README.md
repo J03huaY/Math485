@@ -10,7 +10,7 @@ I’m a college student with a passion for algorithms, software development, dat
 
 ## My Projects
 Here are some of the projects I've worked on:
-- **[Valorant Agent Analysis]**: Brief description (Technologies: jupyter notebook)  
+- **[Valorant Agent Analysis]**: Uses data of agents' performances on different maps to measure an agent's strength and how balance this game is. (Technologies: jupyter notebook)  
   (https://github.com/J03huaY/Math485/blob/main/Project01.ipynb)
 
   You can view the following versions of my Jupyter Notebook:
